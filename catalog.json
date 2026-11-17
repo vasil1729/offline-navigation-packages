@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:05:00Z",
+  "generatedAt": "2026-11-17T20:55:00Z",
   "regions": [
     {
       "id": "ke-nairobi-cbd",
@@ -50,6 +50,23 @@
       "bytes": 104719346,
       "sha256": "cdb3b70740b1dbd2dbbd0e4710e0c8f7d0c50c15748722aad26acd445aba03a0",
       "url": "https://github.com/vasil1729/offline-navigation-packages/releases/download/regions-2026.11.17-india/in-new-delhi-2026.11.14.nvmpkg",
+      "minAppVersion": "0.1.0",
+      "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0)"
+    },
+    {
+      "id": "in-malappuram",
+      "name": "Malappuram (Ernad)",
+      "description": "Malappuram/Ernad, Kerala, India; Valhalla pedestrian routing + entrance-aware search",
+      "version": "2026.11.16",
+      "bbox": [
+        75.95,
+        10.95,
+        76.3,
+        11.35
+      ],
+      "bytes": 45853932,
+      "sha256": "f3c4662f0ce8156ba433be80cb31611e45100fb92f8b5b73154f591b07e116ff",
+      "url": "https://github.com/vasil1729/offline-navigation-packages/releases/download/regions-2026.11.18-malappuram/in-malappuram-2026.11.16.nvmpkg",
       "minAppVersion": "0.1.0",
       "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0)"
     }
