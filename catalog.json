@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T14:10:00Z",
+  "generatedAt": "2026-11-17T15:05:00Z",
   "regions": [
     {
       "id": "ke-nairobi-cbd",
@@ -14,8 +14,8 @@
         -1.25
       ],
       "bytes": 11158689,
-      "sha256": "7371aad63f160f2b6f742fc59995d750cae52f44486039c5b61b265589e8dafc",
-      "url": "https://github.com/vasil1729/offline-navigation-packages/releases/download/regions-2026.11.17-r2/ke-nairobi-cbd-2026.11.15.nvmpkg",
+      "sha256": "a0e34474bf23b5fbc192debb311b13cb161c9239668427fc59355117244362e0",
+      "url": "https://github.com/vasil1729/offline-navigation-packages/releases/download/regions-2026.11.17-r3/ke-nairobi-cbd-2026.11.15.nvmpkg",
       "minAppVersion": "0.1.0",
       "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0)"
     },
