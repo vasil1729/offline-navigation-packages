@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-17T00:00:00Z",
+  "regions": [
+    {
+      "id": "ke-nairobi-cbd",
+      "name": "Nairobi CBD",
+      "description": "Nairobi central business district sample region",
+      "version": "2026.11.15",
+      "bbox": [36.79, -1.31, 36.9, -1.25],
+      "bytes": 11740091,
+      "sha256": "8fe13e697d2008facb7622716df70ab5c56634c076c22e2fdf5b2878b5236aec",
+      "url": "https://github.com/vasil1729/offline-navigation-packages/releases/download/regions-2026.11.17/ke-nairobi-cbd-2026.11.15.nvmpkg",
+      "minAppVersion": "0.1.0",
+      "attribution": "© OpenStreetMap contributors (ODbL 1.0)"
+    }
+  ]
+}
