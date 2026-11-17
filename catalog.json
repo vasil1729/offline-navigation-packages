@@ -1,42 +1,57 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T12:05:00Z",
+  "generatedAt": "2026-11-17T14:10:00Z",
   "regions": [
     {
       "id": "ke-nairobi-cbd",
       "name": "Nairobi CBD",
-      "description": "Nairobi central business district sample region",
+      "description": "Nairobi central business district, Kenya; Valhalla pedestrian routing + entrance index",
       "version": "2026.11.15",
-      "bbox": [36.79, -1.31, 36.9, -1.25],
-      "bytes": 11740091,
-      "sha256": "8fe13e697d2008facb7622716df70ab5c56634c076c22e2fdf5b2878b5236aec",
-      "url": "https://github.com/vasil1729/offline-navigation-packages/releases/download/regions-2026.11.17/ke-nairobi-cbd-2026.11.15.nvmpkg",
+      "bbox": [
+        36.79,
+        -1.31,
+        36.9,
+        -1.25
+      ],
+      "bytes": 11158689,
+      "sha256": "7371aad63f160f2b6f742fc59995d750cae52f44486039c5b61b265589e8dafc",
+      "url": "https://github.com/vasil1729/offline-navigation-packages/releases/download/regions-2026.11.17-r2/ke-nairobi-cbd-2026.11.15.nvmpkg",
       "minAppVersion": "0.1.0",
-      "attribution": "© OpenStreetMap contributors (ODbL 1.0)"
+      "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0)"
     },
     {
       "id": "in-mumbai",
       "name": "Mumbai",
       "description": "Mumbai metropolitan region, Maharashtra, India",
       "version": "2026.11.14",
-      "bbox": [72.75, 18.84, 73.16, 19.36],
+      "bbox": [
+        72.75,
+        18.84,
+        73.16,
+        19.36
+      ],
       "bytes": 76799735,
       "sha256": "370875355b8ef75373d03a63fed6d99f7d3a378d4ad2ac88073a81daea53bc63",
       "url": "https://github.com/vasil1729/offline-navigation-packages/releases/download/regions-2026.11.17-india/in-mumbai-2026.11.14.nvmpkg",
       "minAppVersion": "0.1.0",
-      "attribution": "© OpenStreetMap contributors (ODbL 1.0)"
+      "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0)"
     },
     {
       "id": "in-new-delhi",
       "name": "New Delhi",
       "description": "Delhi NCT region, India",
       "version": "2026.11.14",
-      "bbox": [76.98, 28.44, 77.50, 28.74],
+      "bbox": [
+        76.98,
+        28.44,
+        77.5,
+        28.74
+      ],
       "bytes": 104719346,
       "sha256": "cdb3b70740b1dbd2dbbd0e4710e0c8f7d0c50c15748722aad26acd445aba03a0",
       "url": "https://github.com/vasil1729/offline-navigation-packages/releases/download/regions-2026.11.17-india/in-new-delhi-2026.11.14.nvmpkg",
       "minAppVersion": "0.1.0",
-      "attribution": "© OpenStreetMap contributors (ODbL 1.0)"
+      "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0)"
     }
   ]
 }
