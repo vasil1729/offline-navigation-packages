@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T03:10:00Z",
+  "generatedAt": "2026-11-18T05:40:00Z",
   "regions": [
     {
       "id": "ke-nairobi-cbd",
@@ -56,17 +56,17 @@
     {
       "id": "in-malappuram",
       "name": "Malappuram (Ernad)",
-      "description": "Malappuram/Ernad, Kerala; richer labels, landuse, Valhalla pedestrian routing + entrances",
-      "version": "2026.11.18",
+      "description": "Malappuram/Ernad, Kerala; vector map, local labels/fonts, Valhalla pedestrian routing + entrances",
+      "version": "2026.11.18.1",
       "bbox": [
         75.95,
         10.95,
         76.3,
         11.35
       ],
-      "bytes": 50072958,
-      "sha256": "369c38e6b68fda2a01bbe40b7b2e6b3f15022234628fd9d683e14a30cddc1485",
-      "url": "https://github.com/vasil1729/offline-navigation-packages/releases/download/regions-2026.11.18-malappuram-r2/in-malappuram-2026.11.18.nvmpkg",
+      "bytes": 64824727,
+      "sha256": "80228f29ca73ab73bcc72fc860e5e0a7697fa42a0e812e6c3ef4dfdd7d4c2830",
+      "url": "https://github.com/vasil1729/offline-navigation-packages/releases/download/regions-2026.11.18-vector/in-malappuram-2026.11.18.1.nvmpkg",
       "minAppVersion": "0.1.0",
       "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0)"
     }
